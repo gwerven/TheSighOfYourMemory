@@ -107,7 +107,7 @@ table {
   margin: 0 auto;
 }
 #loading #preloader:after {
-  content: "Loading";
+  content: "Loading...";
   /* Text under the circles */
   position: absolute;
   text-transform: uppercase;
